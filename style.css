@@ -1,4 +1,4 @@
-.spiderman{
+/* .spiderman{
     width: 700px;
     height: 700px;
     display: block;
@@ -367,4 +367,74 @@ background-color: red;
 
 
 
+} */
+
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background-color: #141414;
+color: white;
+}
+
+/* Navbar */
+header {
+display: flex;
+justify-content: space-between;
+padding: 15px 40px;
+background: #000;
+position: fixed;
+width: 100%;
+}
+
+.logo {
+color: red;
+}
+
+nav a {
+color: white;
+margin-left: 20px;
+text-decoration: none;
+}
+
+/* Hero */
+.hero {
+height: 80vh;
+background: url("https://i.imgur.com/YO9y1Gq.jpg") no-repeat center/cover;
+display: flex;
+align-items: center;
+padding: 50px;
+}
+
+.hero-content {
+max-width: 500px;
+}
+
+.hero button {
+background: red;
+border: none;
+padding: 10px 20px;
+color: white;
+cursor: pointer;
+margin-top: 10px;
+}
+
+/* Movies */
+.movies {
+padding: 20px;
+}
+
+.row {
+display: flex;
+overflow-x: scroll;
+}
+
+.row img {
+width: 200px;
+margin-right: 10px;
+transition: transform 0.3s;
+border-radius: 5px;
+}
+
+.row img:hover {
+transform: scale(1.1);
 }
