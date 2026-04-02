@@ -1,0 +1,370 @@
+.spiderman{
+    width: 700px;
+    height: 700px;
+    display: block;
+    margin-left: 900px;
+    margin-right: auto;
+}
+
+body{
+    background-color: black
+}
+
+.netflix{
+    width: 100px;
+    height: 50px;
+    display: block;
+    position: absolute;
+  top: 8px;
+  left: 20px;
+  font-size: 18px;
+    
+    
+}
+
+ul{
+    width: 100px;
+    height: 50px;
+    display: block;
+    position: absolute;
+  top: 8px;
+  left: 400px;
+  font-size: 18px;
+    
+
+}
+
+ol{
+    width: 100px;
+    height: 50px;
+    display: block;
+    position: absolute;
+  top: 8px;
+  left:200px;
+  font-size: 18px;
+    
+
+}
+
+a{
+    color: white;
+}
+
+h2{
+    width: 250px;
+    height: 100px;
+    display: block;
+    position: absolute;
+  top: 5px;
+  left: 20px;
+  font-size: 75px;
+  color: white;
+    
+}
+
+div{
+  
+  width: 250px;
+  height: 100px;
+  display: block;
+  position: absolute;
+top: 5px;
+left: 20px;
+font-size: 75px;
+color: white;
+  
+}
+
+.spider{
+  width: 250px;
+  height: 100px;
+  display: block;
+  position: absolute;
+top: 5px;
+left: 20px;
+font-size: 75px;
+color: white;
+  
+
+}
+
+p{
+  color: white;
+  display: block;
+  position: absolute;
+top: 300px;
+left: 10px;
+font-size: 25px;
+
+  
+
+}
+ 
+h3{
+  color: white;
+  display: block;
+  position: absolute;
+top: 600px;
+left: 10px;
+font-size: 25px;
+}
+
+.stranger{
+  display: block;
+  position: absolute;
+top: 700px;
+left: 10px;
+height: 435px;
+
+
+}
+
+.money{
+  display: block;
+  position: absolute;
+top: 700px;
+left: 350px;
+font-size: xx-small;
+height: 435px;
+
+
+}
+
+
+.bad{
+  display: block;
+  position: absolute;
+top: 700px;
+left: 680px;
+font-size: xx-small;
+height: 435px;
+
+}
+
+.godfather{
+  display: block;
+  position: absolute;
+top: 700px;
+left: 1000px;
+font-size: xx-small;
+height: 435px;
+
+}
+
+.onion{
+  display: block;
+  position: absolute;
+top: 700px;
+left: 1320px;
+font-size: xx-small;
+height: 435px;
+
+}
+
+.basketball{
+  display: block;
+  position: absolute;
+top: 700px;
+left: 1590px;
+font-size: xx-small;
+height: 435px;
+
+}
+
+
+button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin-left: 10px;
+  left: 10px;
+  background-color: red;
+  top: 30%; 
+  right: 0; 
+  margin-top: 510px;
+  
+}
+
+h4{
+  color: white;
+  display: block;
+  position: absolute;
+top: 1200px;
+left: 10px;
+font-size: 25px;
+}
+
+.jordan{
+  display: block;
+  position: absolute;
+top: 1300px;
+left: 10px;
+height: 435px;
+
+}
+
+.topgun{
+  display: block;
+  position: absolute;
+top: 1300px;
+left: 350px;
+font-size: xx-small;
+height: 435px;
+
+}
+
+.suits{
+  display: block;
+  position: absolute;
+top: 1300px;
+left: 670px;
+font-size: xx-small;
+height: 435px;
+
+}
+
+.wolf{
+  display: block;
+  position: absolute;
+top: 1300px;
+left: 1000px;
+font-size: xx-small;
+height: 435px;
+
+}
+
+.blinders{
+  display: block;
+  position: absolute;
+top: 1300px;
+left: 1300px;
+font-size: xx-small;
+height: 435px; 
+}
+
+
+h5{
+  color: white;
+  display: block;
+  position: absolute;
+top: 1750px;
+left: 10px;
+font-size: 25px;
+}
+
+.wed{
+  display: block;
+  position: absolute;
+top: 1850px;
+left: 10px;
+height: 435px;
+font-size: xx-small;
+
+}
+
+.elite{
+  display: block;
+  position: absolute;
+top: 1850px;
+left: 350px;
+height: 435px;
+font-size: xx-small;
+}
+
+.game{
+  display: block;
+  position: absolute;
+top: 1850px;
+left: 670px;
+height: 435px;
+font-size: xx-small;
+
+}
+
+.sheldon{
+  display: block;
+  position: absolute;
+top: 1850px;
+left: 1000px;
+height: 435px;
+font-size: xx-small;
+}
+
+.boys{
+  display: block;
+  position: absolute;
+top: 1850px;
+left: 1300px;
+height: 435px;
+font-size: xx-small;
+}
+h6{
+  color: white;
+  display: block;
+  position: absolute;
+top: 2250px;
+left: 10px;
+font-size: 25px;
+
+}
+.flash{
+  display: block;
+  position: absolute;
+top: 2350px;
+left: 10px;
+height: 435px;
+font-size: xx-small;
+
+
+
+}
+.peaky{
+
+  display: block;
+  position: absolute;
+top: 2350px;
+left: 350px;
+height: 435px;
+font-size: xx-small;
+
+
+}
+.jordan2{
+
+  display: block;
+  position: absolute;
+top: 2350px;
+left: 720px;
+height: 435px;
+font-size: xx-small;
+}
+.badd2{
+  display: block;
+  position: absolute;
+top: 2350px;
+left: 1050px;
+height: 435px;
+font-size: xx-small;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+
+}
+.class{
+  margin-left: 700px;
+  display: block;
+  border: none;
+color: white;
+text-align: center;
+text-decoration: none;
+font-size: 16px;
+background-color: red;
+
+
+
+}

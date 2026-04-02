@@ -1,0 +1,43 @@
+
+@media all and(max-width:425px) {
+
+
+
+
+}
+
+
+
+
+
+
+
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+img{
+    display: block;
+}
+
+button{
+    
+margin-left: 700px;
+    display: block;
+    border: none;
+color: white;
+text-align: center;
+text-decoration: none;
+font-size: 16px;
+background-color: red;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
